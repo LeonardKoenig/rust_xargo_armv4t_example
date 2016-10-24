@@ -1,0 +1,6 @@
+[package]
+name = "armv4t"
+version = "0.1.0"
+authors = ["Leonard König <leonard.r.koenig@googlemail.com>"]
+
+[dependencies]
